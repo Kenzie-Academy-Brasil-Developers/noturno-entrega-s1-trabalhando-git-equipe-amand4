@@ -19,7 +19,6 @@ __O uso de Branches é obrigatório.__
 Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
 
 - [x] Gerar GithubPages;
-- [x] Compartilhar com o grupo de correções da Kenzie Academy BR.;
 - [x] Enviar o link do Repositório e do GithubPages.;
 
 ### Gerando GithubPages
